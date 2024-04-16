@@ -1,0 +1,30 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(4, 8, 9, 0),
+    prodvers=(4, 8, 9, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          '040904B0',
+          [StringStruct('CompanyName', 'YCŞ HOLDİNG'),
+          StringStruct('FileDescription', 'Uzaktan cihaz yönetimi'),
+          StringStruct('FileVersion', '4.8.9'),
+          StringStruct('InternalName', 'api'),
+          StringStruct('LegalCopyright', '© 2024 YCŞ HOLDİNG. Tüm hakları saklıdır. Bu yazılım ve ilişkili belgeler, FSEK No. 5846 kapsamında korunmaktadır. Eser sahibi, eserinin ekonomik haklarının ihlali durumunda, FSEK hükümleri altında belirlenecek güncel değerin üç katına kadar tazminat talep etme hakkına sahiptir. Eserin izinsiz kullanımı, çoğaltılması, yayımlanması veya temsili, eser sahibinin haklarının ihlali olarak kabul edilir ve bu tür ihlaller için hukuki yollara başvurulabilir.'),
+          StringStruct('OriginalFilename', 'api.exe'),
+          StringStruct('ProductName', 'api'),
+          StringStruct('ProductVersion', '4.8.9')]
+        ),
+      ]
+    ),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
